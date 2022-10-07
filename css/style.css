@@ -127,7 +127,7 @@ html{
 }
 
 #home .content h1::after{
-  content: " Yo hallo Wassap";
+  content: " Hallo!";
   animation: textanim 8s linear infinite;
 }
 
@@ -136,7 +136,7 @@ html{
     content: "Selamat datang!";
   }
   50%{
-    content: "di website saya :)";
+    content: "di website saya";
   }
 }
 
@@ -282,27 +282,27 @@ section{
 }
 
 .html:after{
-  width: 80%;
+  width: 100%;
 }
 
 .css:after{
-  width: 70%;
+  width: 90%;
 }
 
 .js:after{
-  width: 50%;
+  width: 60%;
 }
 
 .php:after{
-  width: 60%;
+  width: 80%;
 }
 
 .mysql:after{
-  width: 70%;
+  width: 80%;
 }
 
 .cs:after{
-  width: 60%;
+  width: 80%;
 }
 
 section.dark{
